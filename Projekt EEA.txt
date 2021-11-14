@@ -1,0 +1,10 @@
+Termin zajęć:
+Poniedziałek godz. 10, tygodnie parzyste
+
+Tytuł projektu:
+Regulacja prędkością wentylatora DC zależną od temperatury
+
+Skład grupy:
+Konrad Jonczyk 228400
+Jakub Strzałka 228470
+Paweł Piątkowski 228448
